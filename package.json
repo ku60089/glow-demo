@@ -16,7 +16,7 @@
     "mocha": "^3.3.0"
   },
   "engines": {
-    "ejs": "1.0.0"
+    "ejs": "2.5.5"
   },
   "repository": {
     "type": "git",
